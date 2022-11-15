@@ -45,8 +45,8 @@ global.botname = '[⫹⫺ - 𝙕𝙚𝙣𝙪 𝘼𝙞𝙯𝙖𝙠タ]' //ubah ja
 global.footer = '𝙕𝙚𝙣𝙪 𝘼𝙞𝙯𝙖𝙠タ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6289514100332']
-global.premium = ['6289514100332']
+global.owner = ['6289514100625']
+global.premium = ['6289514100625']
 global.packname = '𝙕𝙚𝙣𝙪 𝘼𝙞𝙯𝙖𝙠タ'
 global.ownerr = ['𝙕𝙚𝙣𝙪 𝘼𝙞𝙯𝙖𝙠タ']
 global.author = '[⫹⫺ - 㑒 𝙕𝙚𝙣𝙪 - 𝘼𝙞𝙯𝙖𝙠 ϟ〽️]'
